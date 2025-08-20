@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRPs/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,7 +170,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7c568ec0c7beb752",
+  "active": "721c456c6b3b6799",
   "lastOpenFiles": [
     "README.md",
     "PRPs/README.md",
