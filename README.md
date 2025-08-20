@@ -1,1 +1,3 @@
-# ai-template-sdlc
+# ai-template-project
+
+![[sample-drawing.svg]]
